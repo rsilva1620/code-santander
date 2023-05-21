@@ -5,3 +5,4 @@ curso
 ##salvando alterracao no git
 ## repositorio remoto git
 *comando git  push
+comando git pull
